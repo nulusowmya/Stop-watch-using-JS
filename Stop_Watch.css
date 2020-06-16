@@ -1,0 +1,49 @@
+#stopWatch{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:20px 0px 10px 0px;
+    width:40%;
+    height:300px;
+    margin-left:5%;
+    margin-top: 2%;
+}
+button{
+    margin:0 10px 10px 10px;
+    width:80px;
+    height:30px;
+}
+#timer{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 60px;
+}
+.but:hover{
+    font-weight: bold;
+    font-size:medium;
+    width:100px;
+    height:35px;
+}
+.but:focus{
+    font-weight: bold;
+    font-size:medium;
+    width:100px;
+    height:35px;
+    border:1px solid grey;
+}
+#records{
+    text-align: center;
+    width:40%;
+    margin: 2% 0 0 5%;
+    background-color:black;
+    height:320px;
+    padding:5px 5px 5px 40px;
+    color:white;
+}
+body{
+    display:flex;
+}
+#clr{
+    display: none;
+    margin-left:43%;
+}
